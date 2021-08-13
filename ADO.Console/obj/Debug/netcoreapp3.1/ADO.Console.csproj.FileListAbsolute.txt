@@ -1,0 +1,27 @@
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\ADO.Console.exe
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\ADO.Console.deps.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\ADO.Console.runtimeconfig.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\ADO.Console.runtimeconfig.dev.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\ADO.Console.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\ADO.Console.pdb
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Debug\netcoreapp3.1\ADO.Console.csprojAssemblyReference.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Debug\netcoreapp3.1\ADO.Console.AssemblyInfoInputs.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Debug\netcoreapp3.1\ADO.Console.AssemblyInfo.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Debug\netcoreapp3.1\ADO.Console.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Debug\netcoreapp3.1\ADO.Console.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Debug\netcoreapp3.1\ADO.Console.pdb
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Debug\netcoreapp3.1\ADO.Console.genruntimeconfig.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\ADO.net Lab.Views.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\ADO.net Lab.Views.pdb
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\ADO.net Lab.exe
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\ADO.net Lab.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Debug\netcoreapp3.1\ADO.net Lab.pdb
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Debug\netcoreapp3.1\ADO.Console.csproj.CopyComplete

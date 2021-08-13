@@ -1,0 +1,13 @@
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Release\netcoreapp3.1\ADO.Console.exe
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Release\netcoreapp3.1\ADO.Console.deps.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Release\netcoreapp3.1\ADO.Console.runtimeconfig.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Release\netcoreapp3.1\ADO.Console.runtimeconfig.dev.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Release\netcoreapp3.1\ADO.Console.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\bin\Release\netcoreapp3.1\ADO.Console.pdb
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Release\netcoreapp3.1\ADO.Console.AssemblyInfoInputs.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Release\netcoreapp3.1\ADO.Console.AssemblyInfo.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Release\netcoreapp3.1\ADO.Console.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Release\netcoreapp3.1\ADO.Console.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Release\netcoreapp3.1\ADO.Console.pdb
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Release\netcoreapp3.1\ADO.Console.genruntimeconfig.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.Console\obj\Release\netcoreapp3.1\ADO.Console.csprojAssemblyReference.cache

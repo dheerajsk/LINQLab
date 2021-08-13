@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.net Lab", "ADO.net Lab\ADO.net Lab.csproj", "{FC3314B2-E6B0-4CFA-A6C5-7CE9708DB875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.Console", "ADO.Console\ADO.Console.csproj", "{4E91C9C0-2B28-4794-94D1-66ECC3C98ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC3314B2-E6B0-4CFA-A6C5-7CE9708DB875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3314B2-E6B0-4CFA-A6C5-7CE9708DB875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3314B2-E6B0-4CFA-A6C5-7CE9708DB875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3314B2-E6B0-4CFA-A6C5-7CE9708DB875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E91C9C0-2B28-4794-94D1-66ECC3C98ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E91C9C0-2B28-4794-94D1-66ECC3C98ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E91C9C0-2B28-4794-94D1-66ECC3C98ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E91C9C0-2B28-4794-94D1-66ECC3C98ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C10F941-0825-46B9-AEE9-344323A8CDAA}
+	EndGlobalSection
+EndGlobal
